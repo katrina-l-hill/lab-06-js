@@ -1,0 +1,1 @@
+let sign = prompt("Do you like ice cream?");

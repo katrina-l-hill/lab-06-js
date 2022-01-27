@@ -25,9 +25,6 @@
         <h4 style="color: #caffbf;">About Me (There's a link here. It's just that the text color is light :-)</h4>
             <p>There's not a lot to say about me. I'm just trucking along and doing the best I can. The Dude Abides.</p>
         <img src="https://user-images.githubusercontent.com/98134026/151079080-9e1846a0-d3c7-410e-9ec4-cf4bededc002.jpg" alt="Fresh Snow">
-    <script>
-        alert("Do you like ice cream?");
-    </script>
     </main>
     <footer>
         <h4 style="color: #b388eb;">Contact Me:</h4>
